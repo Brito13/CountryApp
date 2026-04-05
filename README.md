@@ -26,4 +26,4 @@ It also serves as a personal checkpoint to evaluate my progress, improve my skil
 Pull the image from Docker Hub:
 
 ```bash
-docker pull brito13/countryapp:1.0
+docker pull raidy16/countryapp:1.0
