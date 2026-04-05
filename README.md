@@ -27,3 +27,6 @@ Pull the image from Docker Hub:
 
 ```bash
 docker pull raidy16/countryapp:1.0
+
+Run the image
+docker run -p5000:8080 raidy16/countryapp:1.0
