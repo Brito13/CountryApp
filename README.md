@@ -21,6 +21,9 @@ It also serves as a personal checkpoint to evaluate my progress, improve my skil
 
 ## ⚙️Installation
 
-1. Download the release
-2. Run the executable
-3. Open http://localhost:5000 in your browser
+## 🐳 Run with Docker
+
+Pull the image from Docker Hub:
+
+```bash
+docker pull brito13/countryapp:1.0
