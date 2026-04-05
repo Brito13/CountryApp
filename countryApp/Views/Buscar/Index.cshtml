@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Buscar</title>
+    </head>
+<body class="bg-light">
+    <!-- 🔍 Navbar con barra de búsqueda centrada -->
+    <nav class="navbar bg-white shadow-sm">
+        <div class="container d-flex justify-content-center">
+    
+            <form method="get" class="d-flex w-50">
+                <input name="Name" class="form-control me-2 text-center"
+                       type="search"
+                       placeholder="Buscar país">
+                <button class="btn btn-primary" type="submit">Buscar</button>
+            </form>
+        </div>
+    </nav>
+
+
+    <!-- 🧾 Cards -->
+    <div class="container mt-5">
+        <div class="row justify-content-center g-4">
+
+            <!-- Card 1 -->
+            @foreach (var country in Model)
+            {
+                <div class="col-md-4 d-flex justify-content-center">
+                    <div class="card" style="width: 18rem;">
+                        <img src="~/banderas/@(country.Code).png" class="card-img-top">
+                            <div class="card-body text-center">
+                                <h5 class="card-title">@country.Name</h5>
+                                <p class="card-text">@country.Description</p>
+                                <a href="#" class="btn btn-primary">Ver más</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </body>
+    </html>
