@@ -34,3 +34,11 @@ Run the image
 
 ```bash
 docker run -p5000:8080 raidy16/countryapp:1.0
+
+```
+Open the app in your browser
+```bash
+http://localhost:5000/
+
+
+
