@@ -18,12 +18,13 @@ It also serves as a personal checkpoint to evaluate my progress, improve my skil
 - Bootstrap
 - LINQ
 - REST APIs (for country data)
+- DOCKER
 
 ## ⚙️Installation
 
 ## 🐳 Run with Docker
 
-Pull the image from Docker Hub:docker run -p5000:8080 raidy16/countryapp:1.0
+Pull the image from Docker Hub:
 
 ```bash
 docker pull raidy16/countryapp:1.0
