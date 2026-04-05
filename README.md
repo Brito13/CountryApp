@@ -2,6 +2,10 @@
 
 ## 📌Description
 
+This project was created as a way to practice and reinforce the concepts I’ve been learning over the past few months in ASP.NET.
+
+It also serves as a personal checkpoint to evaluate my progress, improve my skills, and make sure I’m actually learning (and not just watching tutorials 😄)
+
 ## 🖼️ Pictures
 
 <img width="720" height="480" alt="Captura de pantalla 2026-04-05 094331" src="https://github.com/user-attachments/assets/a3bea34e-9179-4148-bfab-f7fe097402d6" />
@@ -16,3 +20,7 @@
 - REST APIs (for country data)
 
 ## ⚙️Installation
+
+1. Download the release
+2. Run the executable
+3. Open http://localhost:5000 in your browser
