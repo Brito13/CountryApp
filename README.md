@@ -1,4 +1,4 @@
-# 🌎 countryApp
+# 🌎 CountryApp
 
 ## 📌Description
 
