@@ -23,10 +23,13 @@ It also serves as a personal checkpoint to evaluate my progress, improve my skil
 
 ## 🐳 Run with Docker
 
-Pull the image from Docker Hub:
+Pull the image from Docker Hub:docker run -p5000:8080 raidy16/countryapp:1.0
 
 ```bash
 docker pull raidy16/countryapp:1.0
 
+```
 Run the image
+
+```bash
 docker run -p5000:8080 raidy16/countryapp:1.0
