@@ -7,8 +7,7 @@ This project was created as a way to practice and reinforce the concepts I’ve 
 It also serves as a personal checkpoint to evaluate my progress, improve my skills, and make sure I’m actually learning (and not just watching tutorials 😄)
 
 ## 🖼️ Pictures
-
-<img width="720" height="480" alt="Captura de pantalla 2026-04-05 094331" src="https://github.com/user-attachments/assets/a3bea34e-9179-4148-bfab-f7fe097402d6" />
+<img width="1904" height="948" alt="image" src="https://github.com/user-attachments/assets/dc8800de-b4cd-4c9c-a189-25185d3a146d" />
 
 
 ## 🚀Technologies
